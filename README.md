@@ -5,8 +5,6 @@ Includes Login, Signup, Forgot Password, and Info/Policy views — all styled wi
 
 ![Screenshot](assets/preview.png)
 
-
-
 ---
 
 ## ✨ Features
@@ -132,15 +130,6 @@ Backend is intentionally excluded so you can use this in:
 * commercial apps
 * closed-source clients
 * multi-tenant backends
-
----
-
-## 📸 Screenshots
-
-### Login View
-
-![Login](assets/preview.png)
-
 
 ---
 
