@@ -5,7 +5,7 @@ Includes Login, Signup, Forgot Password, and Info/Policy views — all styled wi
 
 ![Screenshot](assets/preview.png)
 
-> Add a screenshot named `preview.png` inside the `assets/` folder to display the UI above.
+
 
 ---
 
