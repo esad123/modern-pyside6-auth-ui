@@ -1,0 +1,16 @@
+Python cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Mac OS system files
+
+.DS_Store
+
+Virtual Environments (if you use them later)
+
+venv/
+env/
+.env
