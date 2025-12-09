@@ -5,17 +5,18 @@ Includes Login, Signup, Forgot Password, and Info/Policy views — all styled wi
 
 ## 📸 Screenshots
 
-### Login
-![Login](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" alt="Login screen" width="75%" />
+</p>
 
-### Signup
-![Signup](assets/preview2.png)
+<p align="center">
+  <img src="assets/preview2.png" alt="Signup screen" width="48%" />
+  <img src="assets/preview3.png" alt="Reset password screen" width="48%" />
+</p>
 
-### Forgot Password
-![Forgot Password](assets/preview3.png)
-
-### Info / Terms View
-![Info View](assets/preview4.png)
+<p align="center">
+  <img src="assets/preview4.png" alt="Privacy / Info view" width="75%" />
+</p>
 
 ---
 
